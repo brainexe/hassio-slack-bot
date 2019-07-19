@@ -13,5 +13,7 @@
   "map": [
     "share"
   ],
-  "homeassistant_api": true
+  "homeassistant_api": true,
+  "options": {},
+  "schema": {}
 }
